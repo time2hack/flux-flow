@@ -1,2 +1,2 @@
-# ideaolux
-Flux implementation Idea
+# flux-flow
+Flux implementation
